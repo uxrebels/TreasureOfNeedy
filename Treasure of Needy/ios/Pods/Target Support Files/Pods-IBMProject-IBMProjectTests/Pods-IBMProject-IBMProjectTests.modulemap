@@ -1,0 +1,6 @@
+module Pods_IBMProject_IBMProjectTests {
+  umbrella header "Pods-IBMProject-IBMProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,120 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ibmproject"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="28" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:5:1-77
+13-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:5:18-74
+14    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+14-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:6:3-83
+14-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:6:20-80
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:8:3-62
+15-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:8:20-60
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:9:3-78
+16-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:9:20-76
+17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+17-->[com.facebook.flipper:flipper:0.33.1] /Users/805431/.gradle/caches/transforms-2/files-2.1/e805414ef0aad6e9060ee42b2399aaaa/jetified-flipper-0.33.1/AndroidManifest.xml:16:5-76
+17-->[com.facebook.flipper:flipper:0.33.1] /Users/805431/.gradle/caches/transforms-2/files-2.1/e805414ef0aad6e9060ee42b2399aaaa/jetified-flipper-0.33.1/AndroidManifest.xml:16:22-73
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->[:react-native-geolocation-service] /Users/805431/Desktop/Horizantal/IBMProject/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-79
+18-->[:react-native-geolocation-service] /Users/805431/Desktop/Horizantal/IBMProject/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-76
+19    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+19-->[:react-native-geolocation-service] /Users/805431/Desktop/Horizantal/IBMProject/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+19-->[:react-native-geolocation-service] /Users/805431/Desktop/Horizantal/IBMProject/node_modules/react-native-geolocation-service/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-76
+20
+21    <application
+21-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:10:5-29:19
+22        android:name="com.ibmproject.MainApplication"
+22-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:11:7-38
+23        android:allowBackup="false"
+23-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:15:7-34
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.1.0] /Users/805431/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:24:18-86
+25        android:debuggable="true"
+26        android:icon="@mipmap/ic_launcher"
+26-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:13:7-41
+27        android:label="Treasure of Needy"
+27-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:12:7-40
+28        android:roundIcon="@mipmap/ic_launcher_round"
+28-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:14:7-52
+29        android:theme="@style/AppTheme"
+29-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:16:7-38
+30        android:usesCleartextTraffic="true" >
+30-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/debug/AndroidManifest.xml:7:18-53
+31        <activity
+31-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:17:7-27:18
+32            android:name="com.ibmproject.MainActivity"
+32-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:18:9-37
+33            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+33-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:20:9-86
+34            android:label="Treasure of Needy"
+34-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:19:9-42
+35            android:launchMode="singleTask"
+35-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:21:9-40
+36            android:windowSoftInputMode="adjustResize" >
+36-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:22:9-51
+37            <intent-filter>
+37-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:23:9-26:25
+38                <action android:name="android.intent.action.MAIN" />
+38-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:24:13-65
+38-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:24:21-62
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:25:13-73
+40-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:25:23-70
+41            </intent-filter>
+42        </activity>
+43        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+43-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:28:7-84
+43-->/Users/805431/Desktop/Horizantal/IBMProject/android/app/src/main/AndroidManifest.xml:28:17-81
+44
+45        <provider
+45-->[:react-native-image-picker] /Users/805431/Desktop/Horizantal/IBMProject/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+46            android:name="com.imagepicker.FileProvider"
+46-->[:react-native-image-picker] /Users/805431/Desktop/Horizantal/IBMProject/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+47            android:authorities="com.ibmproject.provider"
+47-->[:react-native-image-picker] /Users/805431/Desktop/Horizantal/IBMProject/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+48            android:exported="false"
+48-->[:react-native-image-picker] /Users/805431/Desktop/Horizantal/IBMProject/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+49            android:grantUriPermissions="true" >
+49-->[:react-native-image-picker] /Users/805431/Desktop/Horizantal/IBMProject/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+50            <meta-data
+50-->[:react-native-image-picker] /Users/805431/Desktop/Horizantal/IBMProject/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+51                android:name="android.support.FILE_PROVIDER_PATHS"
+51-->[:react-native-image-picker] /Users/805431/Desktop/Horizantal/IBMProject/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+52                android:resource="@xml/provider_paths" />
+52-->[:react-native-image-picker] /Users/805431/Desktop/Horizantal/IBMProject/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+53        </provider>
+54
+55        <activity
+55-->[com.google.android.gms:play-services-base:16.0.1] /Users/805431/.gradle/caches/transforms-2/files-2.1/a65f42357062c2888d4e06a72355595a/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+56            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+56-->[com.google.android.gms:play-services-base:16.0.1] /Users/805431/.gradle/caches/transforms-2/files-2.1/a65f42357062c2888d4e06a72355595a/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+57            android:exported="false"
+57-->[com.google.android.gms:play-services-base:16.0.1] /Users/805431/.gradle/caches/transforms-2/files-2.1/a65f42357062c2888d4e06a72355595a/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+58            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+58-->[com.google.android.gms:play-services-base:16.0.1] /Users/805431/.gradle/caches/transforms-2/files-2.1/a65f42357062c2888d4e06a72355595a/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+59
+60        <meta-data
+60-->[com.google.android.gms:play-services-basement:16.0.1] /Users/805431/.gradle/caches/transforms-2/files-2.1/f2d45bc59805a270b719b665b6e78d41/jetified-play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+61            android:name="com.google.android.gms.version"
+61-->[com.google.android.gms:play-services-basement:16.0.1] /Users/805431/.gradle/caches/transforms-2/files-2.1/f2d45bc59805a270b719b665b6e78d41/jetified-play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
+62            android:value="@integer/google_play_services_version" />
+62-->[com.google.android.gms:play-services-basement:16.0.1] /Users/805431/.gradle/caches/transforms-2/files-2.1/f2d45bc59805a270b719b665b6e78d41/jetified-play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+63    </application>
+64
+65</manifest>

@@ -1,0 +1,10 @@
+export const SIZE_01 = 1;
+export const SIZE_04 = 4;
+export const SIZE_05 = 5;
+export const SIZE_10 = 10;
+export const SIZE_20 = 20;
+export const SIZE_25 = 25;
+export const SIZE_30 = 30;
+export const SIZE_40 = 40;
+export const SIZE_50 = 50;
+export const SIZE_60 = 60;
